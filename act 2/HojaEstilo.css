@@ -1,0 +1,36 @@
+/* Fondo rojo para los del Imperio */
+.imperio {
+    background-color: red;
+  }
+  
+  /* Fondo azul para los de los Rebeldes */
+  .rebeldes {
+    background-color: blue;
+  }
+  
+  /* Agrandar el tamanio de la letra de darth vader */
+  #darth-vader {
+    font-size: 2em;
+  }
+  
+  /* texto en italica para luke */
+  #luke {
+    font-style: italic;
+  }
+  
+  /* bordes a rayas yespaciado para los soldados*/
+  .soldado {
+    border: 2px dashed black;
+    letter-spacing: 2px;
+  }
+  
+  /* centrar unidades de apoyo */
+  .apoyo {
+    text-align: center;
+  }
+  
+  /* mayusculas para las naves*/
+  .naves {
+    text-transform: uppercase;
+  }
+  
